@@ -15,13 +15,7 @@
  
   ![image](https://github.com/user-attachments/assets/a78dc08e-63b3-4224-9d5b-5ea6f7984365)
 
-3.	Посмотрим ERD-диаграммы: 
-  
-  ![image](https://github.com/user-attachments/assets/02742dfe-be1b-4a6d-810e-ff9bd298f894)
-  ![image](https://github.com/user-attachments/assets/0d574ddb-6ff2-4cc8-8bd9-20ea475fe24f)
-
-
-4.	После загрузки данных в таблицу проведем анализ скорости загрузки данных разными способами. Заметим, что pandas оказывается в обоих случаях самым медленным способом
+3. 	После загрузки данных в таблицу проведем анализ скорости загрузки данных разными способами. Заметим, что pandas оказывается в обоих случаях самым медленным способом
    ![image](https://github.com/user-attachments/assets/a86c7bc9-0f43-4ac7-a20a-fc4289d8c91b)
 
 Это ярко видно и на визуализации данных о скорости загрузки:
@@ -36,6 +30,10 @@
  ![image](https://github.com/user-attachments/assets/5a994dff-390b-4232-a74c-0f77c001a72c)
 
  ![image](https://github.com/user-attachments/assets/92c9547e-fbd2-4b46-aa98-27013fafd9a8)
+ Посмотрим ERD-диаграммы: 
+  
+  ![image](https://github.com/user-attachments/assets/02742dfe-be1b-4a6d-810e-ff9bd298f894)
+  ![image](https://github.com/user-attachments/assets/0d574ddb-6ff2-4cc8-8bd9-20ea475fe24f)
 
 2.	Метод: copy_expert (file) для малых данных:
   
